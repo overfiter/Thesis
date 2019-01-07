@@ -1,2 +1,4 @@
-# Thesis
-I will develop an package of feature selection. This repo include the plan, code, and present situation of the project.
+# 注意！
+我准备开发一个用来做变量筛选的包，希望在完全完工前，看到这个项目的同学不要转载。  
+目前处于第一阶段：线性模型和部分线性模型的变量筛选  
+以后还会有其他功能加入，敬请期待。  
